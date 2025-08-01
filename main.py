@@ -1,5 +1,7 @@
+from utils import intersection_over_union
+
 def main():
-    print("Hello from yolo!")
+    print(intersection_over_union)
 
 
 if __name__ == "__main__":
